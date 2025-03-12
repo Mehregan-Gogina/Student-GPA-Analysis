@@ -1,3 +1,5 @@
 test-checkpoints
 train-checkpoints
 predictions.csv
+.ipynb_checkpoints/test-checkpoint.csv
+.ipynb_checkpoints/train-checkpoint.csv
